@@ -20,5 +20,5 @@ Skor masing-masing: 10 poin untuk biru dan 10 poin untuk merah.
 # Nim dan Nama
 - Nama : Elliza Iffatunisa
 - Nim : 210260042
-- Link Package : ()
+- Link Package : (https://drive.google.com/drive/folders/1cuvKFtAHsWfzDAC2UbTL-K3a4WPMAoXw?usp=drive_link)
 
